@@ -1,0 +1,18 @@
+{
+  "name": "nodebotday2013",
+  "version": "0.0.0",
+  "description": "playing with Crazyflie nano-copters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SalvatoreT/nodebot-day-2013.git"
+  },
+  "author": "Salvatore Testa",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/SalvatoreT/nodebot-day-2013/issues"
+  }
+}
