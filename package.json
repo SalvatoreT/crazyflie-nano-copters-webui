@@ -1,18 +1,13 @@
 {
-  "name": "nodebotday2013",
-  "version": "0.0.0",
-  "description": "playing with Crazyflie nano-copters",
-  "main": "index.js",
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "start": "node index.js --channel 11"
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SalvatoreT/nodebot-day-2013"
-  },
-  "author": "Salvatore Testa",
-  "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/SalvatoreT/nodebot-day-2013/issues"
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    ".": "*"
   }
 }
