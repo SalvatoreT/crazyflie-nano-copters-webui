@@ -4,11 +4,11 @@
   "description": "playing with Crazyflie nano-copters",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js --channel 11"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:SalvatoreT/nodebot-day-2013.git"
+    "url": "https://github.com/SalvatoreT/nodebot-day-2013"
   },
   "author": "Salvatore Testa",
   "license": "BSD",
